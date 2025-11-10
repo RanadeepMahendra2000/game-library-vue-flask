@@ -20,6 +20,7 @@ This app lets users perform CRUD (Create, Read, Update, Delete) operations on a 
 ---
 
 ## 🗂️ Project Structure
+```
 VueJS-Flask-Game-Library/
 │
 ├── backend/
@@ -51,7 +52,7 @@ VueJS-Flask-Game-Library/
 ├── plan.txt                   # Project planning notes
 ├── README.md
 
-
+```
 
 ---
 
