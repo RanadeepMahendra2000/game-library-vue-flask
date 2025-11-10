@@ -20,37 +20,37 @@ This app lets users perform CRUD (Create, Read, Update, Delete) operations on a 
 ---
 
 ## 🗂️ Project Structure
-
 VueJS-Flask-Game-Library/
 │
 ├── backend/
-│ ├── main.py # Flask API: routes for games CRUD, logic
-│ ├── Pipfile # Python dependencies (Flask, Flask-Cors)
-│ ├── Pipfile.lock # Locked dependencies
-│ └── requirements.txt # (Optional) Python dependencies
+│   ├── main.py                # Flask API: routes for games CRUD, logic
+│   ├── Pipfile                # Python dependencies (Flask, Flask-Cors)
+│   ├── Pipfile.lock           # Locked dependencies
+│   └── requirements.txt       # (Optional) Python dependencies
 │
 ├── frontend/
-│ ├── public/
-│ │ ├── favicon.ico
-│ │ └── index.html # Root HTML file for Vue app
-│ ├── src/
-│ │ ├── assets/
-│ │ │ └── logo.png
-│ │ ├── components/
-│ │ │ ├── Games.vue # Main game library component
-│ │ │ ├── HelloWorld.vue # Starter component
-│ │ │ └── Shark.vue # Additional sample
-│ │ ├── router/
-│ │ ├── App.vue # Root app component
-│ │ └── main.js # Vue entry point
-│ ├── .gitignore
-│ ├── babel.config.js
-│ ├── package.json # Node dependencies
-│ ├── package-lock.json
-│ └── README.md 
+│   ├── public/
+│   │   ├── favicon.ico
+│   │   └── index.html         # Root HTML file for Vue app
+│   ├── src/
+│   │   ├── assets/
+│   │   │   └── logo.png
+│   │   ├── components/
+│   │   │   ├── Games.vue      # Main game library component
+│   │   │   ├── HelloWorld.vue # Starter component
+│   │   │   └── Shark.vue      # Additional sample
+│   │   ├── router/
+│   │   ├── App.vue            # Root app component
+│   │   └── main.js            # Vue entry point
+│   ├── .gitignore
+│   ├── babel.config.js
+│   ├── package.json           # Node dependencies
+│   ├── package-lock.json
+│   └── README.md 
 │
-├── plan.txt # Project planning notes
-├── README.md 
+├── plan.txt                   # Project planning notes
+├── README.md
+
 
 
 ---
